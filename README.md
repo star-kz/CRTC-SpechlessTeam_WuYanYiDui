@@ -25,7 +25,9 @@
     ├── 03-机械结构与外形.md
     ├── 04-底盘运动控制.md
     ├── 05-方块携带机构.md
-    └── 06-整机联调与迭代.md
+    ├── 06-整机联调与迭代.md
+    └── images/            # 文档配图（底盘、机械臂实拍）
+└── 队员学习记录/           # 队员各自的学习记录（分开自学、统一讨论）
 ```
 
 文档怎么组织的、每篇对应哪些考核指标，看 [docs/README.md](docs/README.md)；代码结构和烧录方法看 [code/MecanumCar_PS2/README.md](code/MecanumCar_PS2/README.md)。
