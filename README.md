@@ -30,12 +30,3 @@
 └── 队员学习记录/           # 队员各自的学习记录（分开自学、统一讨论）
 ```
 
-文档怎么组织的、每篇对应哪些考核指标，看 [docs/README.md](docs/README.md)；代码结构和烧录方法看 [code/MecanumCar_PS2/README.md](code/MecanumCar_PS2/README.md)。
-
-## 中期考核提交备忘
-
-- 截止：北京时间 2026-10-19 24:00
-- 邮箱：zhang.guohao@lark.cquqian.li
-- 邮件主题：`队伍名称队长姓名` → 我们的是「无言以队战队黄光振」
-- 正文：罗列完成的指标 + 本仓库地址
-- 附件 zip 命名：`实训战队名称队伍名称队长姓名`；视频 .mp4、≥1080p、≥30fps
